@@ -1,0 +1,10 @@
+.fh
+	{behavior: url(styles/PIE.htc); zoom:1;}
+.fg
+	{behavior: url(styles/PIE.htc); zoom:1; position:relative;}
+
+
+ .back, .all { zoom:1; overflow : hidden;}
+*+html .decorated-form-pattern { bottom: -52px;}
+
+
