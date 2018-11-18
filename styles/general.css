@@ -478,13 +478,6 @@ background: #111 -moz-linear-gradient(top,rgba(255,255,255,.2) 0%,rgba(255,255,2
 
 
 
-
-
-
-
-.addClassActive {
-	color: red;
-}
-.nav {
-	border: 1px solid red;
+#project {
+	border: 2px solid green;
 }
