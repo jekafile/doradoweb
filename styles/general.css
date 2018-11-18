@@ -464,3 +464,24 @@ background: #111 -moz-linear-gradient(top,rgba(255,255,255,.2) 0%,rgba(255,255,2
 #fancybox-buttons a.btnToggleOn {	background-position: -27px -60px;}
 #fancybox-buttons a.btnClose {	border-left: 1px solid #111;	width: 38px;	background-position: -57px 0px;}
 #fancybox-buttons a.btnDisabled {	opacity : 0.5;	cursor: default;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.addClassActive {
+	color: red;
+}
